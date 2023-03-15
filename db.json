@@ -6,5 +6,13 @@
             "age": 18,
             "email": "gtatterton0@ehow.com"
         }
+    ],
+    "posts":[
+        {
+            "id": 1,
+            "name": "prateek",
+            "age": 28,
+            "email": "prateek@gmail.com"
+        }
     ]
 }
