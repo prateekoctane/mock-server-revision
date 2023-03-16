@@ -2,10 +2,16 @@
     "users": [
         {
             "id": 1,
-            "name": "Gertrudis Tatterton",
-            "age": 18,
-            "email": "gtatterton0@ehow.com"
-        }
+            "username": "prateekoctane",
+            "email": "prateekoctane@gmail.com",
+            "password": "hello"
+          },
+          {
+            "username": "aniket",
+            "email": "aniket@gmail.com",
+            "password": "hello",
+            "id": 2
+          }
     ],
     "posts":[
         {
@@ -14,5 +20,29 @@
             "age": 28,
             "email": "prateek@gmail.com"
         }
-    ]
+    ],
+    "hotels": [
+        {
+          "category": "deluxe",
+          "img": "https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_54_990x660.jpg",
+          "type_of_room": "AC",
+          "bedType": "double",
+          "numOfAdults": "4",
+          "maxCapacity": "4",
+          "price": "2300",
+          "booked": false,
+          "id": 2
+        },
+        {
+          "category": "suite",
+          "img": "https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_54_990x660.jpg",
+          "type_of_room": "Non-AC",
+          "bedType": "single",
+          "numOfAdults": "6",
+          "maxCapacity": "7",
+          "price": "4000",
+          "booked": false,
+          "id": 3
+        }
+      ]
 }
