@@ -118,5 +118,37 @@
         "IMDB_Rating" : 6.8,
         "ticket" : 200
       }
-  ]
+  ],
+  "books": [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Don Sturdy and tombs of gold",
+      "author": "appleton",
+      "genre": "fiction",
+      "edition": "1998",
+      "publisher": "Bloomsbury",
+      "cost": 1000,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "A princess remembers",
+      "author": "gayatri devi",
+      "genre": "autobiograhy",
+      "edition": "1966",
+      "publisher": "rupa",
+      "cost": 1200,
+      "borrowed": false
+    }
+]
 }
